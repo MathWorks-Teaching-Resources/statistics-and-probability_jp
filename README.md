@@ -5,7 +5,7 @@ This repository contains a Japanese version of a published repository "Descripti
 
 **Curriculum Module created in collaboration with Ward Nickle, Humboldt State University**  
   
-_Created with R2020a. Compatible with R2020a and later releases._
+_R2020aを使用して作成、R2020a以降の製品で動作確認_
 
 ## 記述統計学と確率分布 ##
 
