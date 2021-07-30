@@ -1,4 +1,4 @@
-# Descriptive Statistics and Probability Distributions（日本語版） [![View <File Exchange Title> on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/95463-descriptive-stats-and-probability)
+# Descriptive Statistics and Probability Distributions（日本語版） [![View Descriptive Statistics and Probability Distributions（日本語版） on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/96802-descriptive-statistics-and-probability-distributions)
 
 This repository contains a Japanese version of a published repository "Descriptive Statistics and Probability Distributions"https://github.com/MathWorks-Teaching-Resources/Descriptive-Stats-and-Probability
   
