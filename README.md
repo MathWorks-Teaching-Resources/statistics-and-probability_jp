@@ -14,7 +14,7 @@ _R2020aを使用して作成、R2020a以降の製品で動作確認_
 <img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "400">
 
 ## 推奨される事前準備 ## 
-[MATLAB 入門](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – MATLAB®の基本を学ぶための2時間の無料入門チュートリアル
+[MATLAB 入門](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – MATLAB®の基本を学ぶための2時間の無料入門チュートリアル
 
 ## 詳細 ##
 
