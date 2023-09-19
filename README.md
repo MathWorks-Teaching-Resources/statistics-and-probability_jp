@@ -18,7 +18,8 @@ _R2020aを使用して作成、R2020a以降の製品で動作確認_
 
 ## 詳細 ##
 
-**`descriptiveStatistics.mlx`**   
+**`descriptiveStatistics.mlx`** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/statistics-and-probability_jp&file=descriptiveStatistics.mlx)
+
 **学習目標:**
 - 定量的変数をヒストグラムで可視化する
 - 平均値と中央値を算出し解釈する
@@ -29,7 +30,8 @@ _R2020aを使用して作成、R2020a以降の製品で動作確認_
 
 
 ## ##
-**`discreteDistributions.mlx`**  
+**`discreteDistributions.mlx`**  [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/statistics-and-probability_jp&file=discreteDistributions.mlx)
+
 **学習目標:**  
 - 確率分布の定義
 - 離散的な確率分布が与えられた場合の統計量の算出
@@ -39,7 +41,8 @@ _R2020aを使用して作成、R2020a以降の製品で動作確認_
  
 
 ## ##
-**`continuousDistributions.mlx`**   
+**`continuousDistributions.mlx`** [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/statistics-and-probability_jp&file=continuousDistributions.mlx)
+
 **学習目標:**  
 - 一様確率分布を理解し、使用することができる
 - 正規確率分布の理解し、使用することができる
