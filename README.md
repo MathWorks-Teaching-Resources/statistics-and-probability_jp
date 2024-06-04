@@ -11,7 +11,6 @@ _R2020aを使用して作成、R2020a以降の製品で動作確認_
   
 本パッケージには、記述統計の基礎とよく使われる確率分布を中心とした _[ライブスクリプト](https://www.mathworks.com/products/matlab/live-editor.html)_ が含まれています。これらの教材は柔軟に設計されており、様々な教育・学習方法に合わせて簡単に変更することができます。連続して使用することで、ライブスクリプトは徐々にトピックに深みを増していきます。一方でそれぞれのスクリプトは単独で使用することも可能です。各スクリプトには、背景、インタラクティブな描画、課題、振り返りの質問、さまざまなコンセプトの問題例が含まれています。
 
-<img src = "https://www.mathworks.com/content/mathworks/www/en/academia/courseware/statistics-and-probability/_jcr_content/mainParsys/columns_1254430605_c/2/columns_copy/1/image.adapt.full.high.png/1614628044446.png" height = "400">
 
 ## 推奨される事前準備 ## 
 [MATLAB 入門](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – MATLAB®の基本を学ぶための2時間の無料入門チュートリアル
